@@ -14,7 +14,6 @@ class TrendingLoadingCard extends StatelessWidget {
           onTap: () {},
           child: Container(
             padding: const EdgeInsets.all(5),
-            //height: 300,
             width: 280,
             decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(20),
